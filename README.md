@@ -7,6 +7,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
