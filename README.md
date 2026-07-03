@@ -11,6 +11,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3620-network-recovery-pathways](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,8 +96,25 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
