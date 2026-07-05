@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [1301-number-of-paths-with-max-score](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -102,10 +103,12 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
