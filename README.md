@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [1260-shift-2d-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -35,6 +36,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -134,6 +136,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
