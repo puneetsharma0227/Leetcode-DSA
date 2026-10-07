@@ -103,6 +103,7 @@
 ## String
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -123,6 +124,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -217,4 +219,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/puneetsharma0227/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
